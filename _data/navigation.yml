@@ -15,4 +15,7 @@ main:
   - title: "Match Center"
     url: /year-archive/
     
+  - title: "Premier League Fixture"
+    url: /fixture_list/
+    
 
