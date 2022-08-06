@@ -13,4 +13,4 @@ Hey! We are Chelsea FC Official Supporters Group based in Rochester, NY, USA. We
 ## Upcoming Game
 <img src="../images/club_logos/everton.svg" alt="everton_logo" width="100"/> [Everton v.s Chelsea](https://cfcroc.github.io/posts/2022/08/match-1) <img src="../images/club_logos/chelsea.svg" alt="chelsea_logo" width="100"/>
 
-Goodison Park, 12:30 PM EDT
+August 6th 2022, 12:30 PM EDT, Goodison Park
