@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Premier Leagur Fixtures"
-permalink: /ficture_list/
+permalink: /fixture_list/
 author_profile: true
 redirect_from:
   - /resume
