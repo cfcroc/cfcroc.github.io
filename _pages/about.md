@@ -13,4 +13,4 @@ Hey! We are Chelsea FC Official Supporters Group based in Rochester, NY, USA. We
 ## Upcoming Game
 <img src="../images/club_logos/chelsea.svg" alt="chelsea_logo" width="100"/> [Chelsea v.s Tottenham](https://cfcroc.github.io/posts/2022/08/match-2) <img src="../images/club_logos/spurs.svg" alt="chelsea_logo" width="55"/>
 
-August 11th 2022, 11:30 PM EDT, Stamford Bridge
+August 14th 2022, 11:30 PM EDT, Stamford Bridge
