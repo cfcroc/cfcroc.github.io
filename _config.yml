@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "CFCROC"
 title_separator          : "-"
 name                     : &name "CFCROC"
-description              : &description "Chelsea FC Official Supporters Group, Rochester, NY, USA"
+description              : &description "Chelsea FC Official Supporters Club, Rochester, NY, USA"
 url                      : https://cfcroc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cfcroc/cfcroc.github.io"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : 'RocCFC'
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "CFCROC"
   avatar           : "profile.png"
-  bio              : "Chelsea FC Official Supporters Group"
+  bio              : "Chelsea FC Official Supporters Club"
   location         : "Rochester, NY, USA"
   employer         :
   pubmed           : 
